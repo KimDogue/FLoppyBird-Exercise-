@@ -22,12 +22,22 @@ This project is a recreation of the classic Flappy Bird game developed in Unity 
 - Game Over screen
 - UI implementation
 
+  
+---
+## 📸 Screenshots
+
+## 💀 Game Play
+
+![GamePlay](images/GamePlay.png)
+
+## 💀 Game Over
+
+![GameOver](images/GameOver.png)
 
 ---
 
 ## 🎥 Gameplay Video
-
-*(Add your YouTube gameplay link here.)*
+https://youtu.be/UDYroYncdlY
 
 ---
 
