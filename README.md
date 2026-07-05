@@ -26,7 +26,7 @@ This project is a recreation of the classic Flappy Bird game developed in Unity 
 ---
 ## 📸 Screenshots
 
-## 💀 Game Play
+## 🎮 Game Play
 
 ![GamePlay](images/GamePlay.png)
 
